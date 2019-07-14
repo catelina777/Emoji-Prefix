@@ -27,6 +27,6 @@ Message Body
 | 🔥 | `:fire:` | when removing code or files |
 | ⬆ | `:arrow_up:` |  when upgrading dependencies |
 | 👕 | `:shirt:` | when removing linter warnings |
-| 💎 | `:gem:` | New Release |
-| 🔖 | `:bookmark:` | Version Tags |
+| 💎 | `:gem:` | when publishing new release |
+| 🔖 | `:bookmark:` | when publishing version tags |
 | 📚 | `:books:` | when writing docs |

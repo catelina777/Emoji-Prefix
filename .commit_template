@@ -11,13 +11,13 @@
 # 🐛 :when fixing a bug
 # 💚 :when fixing the CI build
 # ✅ :when adding tests
-# 🔒 :when dealing with security  
+# 🔒 :when dealing with security
 # 🔥 :when removing code or files 
-# ⬆ :when upgrading dependencies 
-# 👕 :when removing linter warnings 
-# 💎 :New Release 
-# 🔖 :Version Tags 
-# 📚 :when writing docs 
+# ⬆ :when upgrading dependencies
+# 👕 :when removing linter warnings
+# 💎 :when publishing new release
+# 🔖 :when publishing version tags
+# 📚 :when writing docss
 
 # ======== Format ========
 # :emoji: Subject

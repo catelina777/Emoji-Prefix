@@ -1,0 +1,24 @@
+# ======== Emoji Prefix ========
+# ➕ :when adding feature
+# ➖ :when removing feature
+# 🎨 :when improving the **format**/structure of the codes
+# 📝 :when performing minor changes/fixing the code or language
+# 🔧 :when changing configuration files
+# 🐎 :when improving performance
+# 💄 :when improving UI/Cosmetic
+# 🐛 :when fixing a bug
+# 💚 :when fixing the CI build
+# ✅ :when adding tests
+# 🔒 :when dealing with security  
+# 🔥 :when removing code or files 
+# ⬆ :when upgrading dependencies 
+# 👕 :when removing linter warnings 
+# 💎 :New Release 
+# 🔖 :Version Tags 
+# 📚 :when writing docs 
+
+# ======== Format ========
+# :emoji: Subject
+#
+# Commit body...
+# Ref <#>

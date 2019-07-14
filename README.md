@@ -13,17 +13,20 @@ Message Body
 
 | Emoji | Raw Emoji Code | Description |
 |:---:|:---:|---|
-| 🎨 | `:art:` | when improving the **format**/structure of the code |
-| 📝 | `:pencil:` | when performing minor changes/fixing the code or language |
-| 🐎 | `:racehorse:` | when improving performance |
-| 🐛 | `:bug:` | when fixing a bug |
-| ✅ | `:white_check_mark:` | when adding tests |
 | ➕ | `:heavy_plus_sign:` | when adding feature |
 | ➖ | `:heavy_minus_sign:` | when removing feature |
+| 🎨 | `:art:` | when improving the **format**/structure of the code |
+| 📝 | `:pencil:` | when performing minor changes/fixing the code or language |
+| 🔧 | `:wrench:` |	when changing configuration files |
+| 🐎 | `:racehorse:` | when improving performance |
 | 💄 | `:lipstick:` | when improving UI/Cosmetic |
+| 🐛 | `:bug:` | when fixing a bug |
+| 💚 | `:green_heart:` | when fixing the CI build |
+| ✅ | `:white_check_mark:` | when adding tests |
+| 🔒 | `:lock:` | when dealing with security |
 | 🔥 | `:fire:` | when removing code or files |
 | ⬆ | `:arrow_up:` |  when upgrading dependencies |
 | 👕 | `:shirt:` | when removing linter warnings |
-| 📚 | `:books:` | when writing docs |
 | 💎 | `:gem:` | New Release |
 | 🔖 | `:bookmark:` | Version Tags |
+| 📚 | `:books:` | when writing docs |

@@ -9,6 +9,7 @@
 # 🐎 :when improving performance
 # 💄 :when improving UI/Cosmetic
 # 🐛 :when fixing a bug
+# 👷 :when changint CI related configuration files
 # 💚 :when fixing the CI build
 # ✅ :when adding tests
 # 🔒 :when dealing with security

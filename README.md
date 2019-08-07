@@ -22,6 +22,7 @@ Message Body
 | 🐎 | `:racehorse:` | when improving performance |
 | 💄 | `:lipstick:` | when improving UI/Cosmetic |
 | 🐛 | `:bug:` | when fixing a bug |
+| 👷 | `:construction_worker:` | when changint CI related configuration files |
 | 💚 | `:green_heart:` | when fixing the CI build |
 | ✅ | `:white_check_mark:` | when adding tests |
 | 🔒 | `:lock:` | when dealing with security |

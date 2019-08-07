@@ -1,6 +1,7 @@
 # Emoji-Prefix
 
 ## Git Commit Message
+
 ```
 :emoji:... Subject
 (Only One NewLine)
@@ -15,9 +16,9 @@ Message Body
 |:---:|:---:|---|
 | ➕ | `:heavy_plus_sign:` | when adding feature |
 | ➖ | `:heavy_minus_sign:` | when removing feature |
-| 🎨 | `:art:` | when improving the **format**/structure of the code |
+| 🎨 | `:art:` | when improving the format/structure of the code |
 | 📝 | `:pencil:` | when performing minor changes/fixing the code or language |
-| 🔧 | `:wrench:` |	when changing configuration files |
+| 🔧 | `:wrench:` | when changing configuration files |
 | 🐎 | `:racehorse:` | when improving performance |
 | 💄 | `:lipstick:` | when improving UI/Cosmetic |
 | 🐛 | `:bug:` | when fixing a bug |
